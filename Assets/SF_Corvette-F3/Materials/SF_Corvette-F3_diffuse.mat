@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SF_Corvette-F3_diffuse
+  m_Shader: {fileID: 4800000, guid: 814dda71c15f9f643939367c0d1684ef, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _ALIGNNORMALSTOVIEW_ON
+  - _EMISSION
+  - _NORMALMAP
+  - _SPECGLOSSMAP
+  - _USE2DNOISE_ON
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 8fc276bac0dd42d45b56f9de5cf70f0b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DefaultEmission:
+        m_Texture: {fileID: 2800000, guid: b30d9c999b067d040b70e1f848c7f691, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionGlow:
+        m_Texture: {fileID: 2800000, guid: 14db9ce3ea6396949a791f7f696fe35d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 2800000, guid: 14db9ce3ea6396949a791f7f696fe35d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _InvisibilityTransition:
+        m_Texture: {fileID: 2800000, guid: 669f6736c0596e74b857707a30db511e, type: 3}
+        m_Scale: {x: 10, y: 10}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: cc8e67f05b81d374f9639b4ace3d78b1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTexture:
+        m_Texture: {fileID: 2800000, guid: cc8e67f05b81d374f9639b4ace3d78b1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Noise:
+        m_Texture: {fileID: 2800000, guid: fb3261c1aa9d27a4aafa30b5474b81d5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 2800000, guid: f38016b08b68efa409fc738f1bad346c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: 8fc276bac0dd42d45b56f9de5cf70f0b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample1:
+        m_Texture: {fileID: 2800000, guid: cc8e67f05b81d374f9639b4ace3d78b1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample5:
+        m_Texture: {fileID: 2800000, guid: fb3261c1aa9d27a4aafa30b5474b81d5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Trisampleo:
+        m_Texture: {fileID: 2800000, guid: cc8e67f05b81d374f9639b4ace3d78b1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AlignNormalsToView: 1
+    - _BlurDivide: 9
+    - _BlurIntensity: 0.0054
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DefaultEmissionValue: 20
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _Emission: 1
+    - _EmissionGlowValue: 10
+    - _Fade: 2.15
+    - _Float0: 1
+    - _GlossMapScale: 0.6
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _Intensity: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _NoiseIntensity: 0.24
+    - _NoiseSize: 20
+    - _NormalIntensity: 1
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _Progress: 0.31
+    - _RefractionIntensity: -0.408
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SpecularPower: 4.7
+    - _SrcBlend: 1
+    - _ToggleSwitch0: 0
+    - _TransitionEmission: 100
+    - _TriplanarIntensity: 2
+    - _UVSec: 0
+    - _Use2DNoise: 1
+    - _Width: 0.012
+    - _ZWrite: 1
+    - __dirty: 0
+    m_Colors:
+    - _BlurTint: {r: 1, g: 1, b: 1, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color1: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _OffSet: {r: 0, g: 0, b: 0, a: 0}
+    - _Scale: {r: 0, g: 0, b: 0, a: 0}
+    - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
+    - _Tint: {r: 1, g: 1, b: 1, a: 0}
+    - _TransitionColor: {r: 0.49056602, g: 0.2218791, b: 0, a: 0}
+    - _Vector0: {r: 1, g: 1, b: 1, a: 0}
+  m_BuildTextureStacks: []

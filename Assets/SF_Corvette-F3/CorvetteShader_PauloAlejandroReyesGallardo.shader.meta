@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 814dda71c15f9f643939367c0d1684ef
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _TextureSample0: {fileID: 2800000, guid: 8fc276bac0dd42d45b56f9de5cf70f0b, type: 3}
+  - _Noise: {fileID: 2800000, guid: fb3261c1aa9d27a4aafa30b5474b81d5, type: 3}
+  - _InvisibilityTransition: {fileID: 2800000, guid: 669f6736c0596e74b857707a30db511e, type: 3}
+  - _DefaultEmission: {fileID: 2800000, guid: b30d9c999b067d040b70e1f848c7f691, type: 3}
+  - _EmissionGlow: {fileID: 2800000, guid: 14db9ce3ea6396949a791f7f696fe35d, type: 3}
+  - _MainTexture: {fileID: 2800000, guid: cc8e67f05b81d374f9639b4ace3d78b1, type: 3}
+  - _Trisampleo: {fileID: 2800000, guid: e0848cf6275681240ad36e12e50971e5, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
